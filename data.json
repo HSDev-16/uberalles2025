@@ -5,6 +5,7 @@
         "NIM": "250602016",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "81333240731",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -30,6 +31,7 @@
         "NIM": "250602031",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085232609337",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp290.000",
@@ -55,6 +57,7 @@
         "NIM": "250602021",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081515528023",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -66,10 +69,10 @@
             "TAMBAHAN": "Lengan Panjang",
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
-                "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "METODE": "Transfer",
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -80,6 +83,7 @@
         "NIM": "250602027",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085730896925",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -92,9 +96,9 @@
             "HARGA": "Rp11.000",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "JUMLAH": "Rp11.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -105,6 +109,7 @@
         "NIM": "250602008",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "085748991090",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp150.000",
@@ -130,6 +135,7 @@
         "NIM": "250602003",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082132057761",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -155,6 +161,7 @@
         "NIM": "250602032",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081252713942",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -167,9 +174,9 @@
             "HARGA": "Rp7.000",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "JUMLAH": "Rp7.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -180,6 +187,7 @@
         "NIM": "250602038",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082332961824",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -205,6 +213,7 @@
         "NIM": "250602009",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082131136767",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -217,9 +226,9 @@
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -230,6 +239,7 @@
         "NIM": "250602028",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085755099058",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -243,8 +253,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -255,6 +265,7 @@
         "NIM": "250602023",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085730693398",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -267,9 +278,9 @@
             "HARGA": "Rp11.000",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "JUMLAH": "Rp11.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -280,6 +291,7 @@
         "NIM": "250602004",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "085843055428",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -293,8 +305,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp7.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -305,6 +317,7 @@
         "NIM": "250602020",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081939802542",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -330,6 +343,7 @@
         "NIM": "250602019",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082228536918",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -343,8 +357,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -355,6 +369,7 @@
         "NIM": "250602034",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081259517432",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -368,8 +383,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -380,6 +395,7 @@
         "NIM": "250602024",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081232960215",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -405,6 +421,7 @@
         "NIM": "240602026",
         "KELAS": "A - Pagi",
         "SEMESTER": 3,
+        "WHATSAPP": "083832582999",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -418,8 +435,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -430,6 +447,7 @@
         "NIM": "250602015",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081229537253",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -443,8 +461,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp11.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -455,6 +473,7 @@
         "NIM": "250602005",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082386956456",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -466,10 +485,10 @@
             "TAMBAHAN": "Lengan Panjang",
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
-                "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "METODE": "Cash",
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -480,6 +499,7 @@
         "NIM": "240602025",
         "KELAS": "A - Pagi",
         "SEMESTER": 3,
+        "WHATSAPP": "0853-8554-1742",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -493,8 +513,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -505,6 +525,7 @@
         "NIM": "250602014",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "08115117175",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -530,6 +551,7 @@
         "NIM": "250602039",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085854635169",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -555,6 +577,7 @@
         "NIM": "250602036",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "0822 4580 0581",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp100.000",
@@ -568,8 +591,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -580,6 +603,7 @@
         "NIM": "250602029",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081280036788",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -593,8 +617,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -605,6 +629,7 @@
         "NIM": "250602048",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085729738311",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -618,8 +643,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -630,6 +655,7 @@
         "NIM": "250602049",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082145374891",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -642,9 +668,9 @@
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -655,6 +681,7 @@
         "NIM": "250602062",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "071399756356",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp100.000",
@@ -680,6 +707,7 @@
         "NIM": "250602018",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "081216442883",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -705,6 +733,7 @@
         "NIM": "250602006",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082336484883",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp200.000",
@@ -718,8 +747,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -730,6 +759,7 @@
         "NIM": "250602071",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "087718275901",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp100.000",
@@ -755,6 +785,7 @@
         "NIM": "250602022",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "08979609850",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -780,6 +811,7 @@
         "NIM": "250602042",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085727522866",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -805,6 +837,7 @@
         "NIM": "250602073",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081916764216",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -830,6 +863,7 @@
         "NIM": "250602054",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "083851977834",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -843,8 +877,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -855,6 +889,7 @@
         "NIM": "250602051",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082233117627",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -880,6 +915,7 @@
         "NIM": "240602020",
         "KELAS": "A - Pagi",
         "SEMESTER": 3,
+        "WHATSAPP": "082131596115",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -905,6 +941,7 @@
         "NIM": "250602052",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085175084323",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -930,6 +967,7 @@
         "NIM": "250602060",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "083854789377",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -943,8 +981,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -955,6 +993,7 @@
         "NIM": "250602064",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "083130740972",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp100.000",
@@ -980,6 +1019,7 @@
         "NIM": "250602037",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085730620848",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -993,8 +1033,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1005,6 +1045,7 @@
         "NIM": "250602026",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081217212855",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1018,8 +1059,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1030,6 +1071,7 @@
         "NIM": "250602007",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "089516116369",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1043,8 +1085,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1055,6 +1097,7 @@
         "NIM": "250602040",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085704505407",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1080,6 +1123,7 @@
         "NIM": "250602025",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085755829327",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1105,6 +1149,7 @@
         "NIM": "250602041",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085102217518",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1116,10 +1161,10 @@
             "TAMBAHAN": "Lengan Panjang",
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
-                "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "METODE": "Cash",
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1130,6 +1175,7 @@
         "NIM": "250602045",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085704602792",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1155,6 +1201,7 @@
         "NIM": "250602065",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082245867464",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1180,6 +1227,7 @@
         "NIM": "250602072",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "0881026827624",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp150.000",
@@ -1205,6 +1253,7 @@
         "NIM": "250602066",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082334270392",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp150.000",
@@ -1218,8 +1267,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1230,6 +1279,7 @@
         "NIM": "250602058",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082229608761",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp50.000",
@@ -1243,8 +1293,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1255,6 +1305,7 @@
         "NIM": "250602046",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082229610167",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp100.000",
@@ -1280,6 +1331,7 @@
         "NIM": "250602044",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "08561161196",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1305,6 +1357,7 @@
         "NIM": "250602069",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "083102897781",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1330,6 +1383,7 @@
         "NIM": "250602050",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081252818788",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1355,6 +1409,7 @@
         "NIM": "250602055",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085172149757",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1380,6 +1435,7 @@
         "NIM": "250602067",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085194918485",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1405,6 +1461,7 @@
         "NIM": "250602068",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085856814739",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp150.000",
@@ -1418,8 +1475,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1430,6 +1487,7 @@
         "NIM": "250602017",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "082228332113",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp100.000",
@@ -1455,6 +1513,7 @@
         "NIM": "250602063",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081331906497",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1480,6 +1539,7 @@
         "NIM": "250602070",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085748050409",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1491,10 +1551,10 @@
             "TAMBAHAN": "ukuran",
             "HARGA": "Rp7.000",
             "PEMBAYARAN": {
-                "METODE": "",
-                "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "METODE": "Cash",
+                "JUMLAH": "Rp7.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1505,6 +1565,7 @@
         "NIM": "250602012",
         "KELAS": "A - Sore",
         "SEMESTER": 1,
+        "WHATSAPP": "0895414138900",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1530,6 +1591,7 @@
         "NIM": "250602061",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "082233877174",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1543,8 +1605,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1555,6 +1617,7 @@
         "NIM": "250602030",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085150670935",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1580,6 +1643,7 @@
         "NIM": "250602059",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "083179414611",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1605,6 +1669,7 @@
         "NIM": "240602035",
         "KELAS": "A - Pagi",
         "SEMESTER": 3,
+        "WHATSAPP": "089529734987",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1630,6 +1695,7 @@
         "NIM": "250602056",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "83119395294",
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
@@ -1643,8 +1709,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp8.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1655,6 +1721,7 @@
         "NIM": "250602001",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081358406600",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1680,6 +1747,7 @@
         "NIM": "250602033",
         "KELAS": "A - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "085259099554",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
@@ -1693,8 +1761,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "",
-                "KURANG": "",
-                "STATUS": ""
+                "KURANG": "Rp7.000",
+                "STATUS": "Belum"
             }
         },
         "TOTAL_STATUS": ""
@@ -1705,6 +1773,7 @@
         "NIM": "250602043",
         "KELAS": "B - Pagi",
         "SEMESTER": 1,
+        "WHATSAPP": "081216953928",
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
