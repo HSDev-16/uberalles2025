@@ -1,0 +1,1727 @@
+[
+    {
+        "NO": 1,
+        "NAMA": "MUHAMMAD RIZAL RIDWANUDDIN",
+        "NIM": "250602016",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 2,
+        "NAMA": "XZIG IOVANS PRATAMA",
+        "NIM": "250602031",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp290.000",
+            "KURANG": "Rp9.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 3,
+        "NAMA": "Zakiyyatul Fahma",
+        "NIM": "250602021",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 4,
+        "NAMA": "Putri Nur Aisyah",
+        "NIM": "250602027",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang rib",
+            "HARGA": "Rp11.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 5,
+        "NAMA": "Rizki Aulia",
+        "NIM": "250602008",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp150.000",
+            "KURANG": "Rp149.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 6,
+        "NAMA": "Akbar baruni einstean",
+        "NIM": "250602003",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 7,
+        "NAMA": "Damara Ahmad Riansyah",
+        "NIM": "250602032",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "3XL",
+            "TAMBAHAN": "Ukuran",
+            "HARGA": "Rp7.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 8,
+        "NAMA": "Mohammad Zanuar Fatchih Maarif",
+        "NIM": "250602038",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 9,
+        "NAMA": "Haidar Dzaky Firdausy",
+        "NIM": "250602009",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 10,
+        "NAMA": "m. bimahayyun",
+        "NIM": "250602028",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 11,
+        "NAMA": "Athalia nur riski",
+        "NIM": "250602023",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang rib",
+            "HARGA": "Rp11.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 12,
+        "NAMA": "AHMAD SYARIFUDDIN TRIANSYAH",
+        "NIM": "250602004",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XXL",
+            "TAMBAHAN": "Ukuran",
+            "HARGA": "Rp7.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 13,
+        "NAMA": "Muhamad Ilham Darmawan",
+        "NIM": "250602020",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "-",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 14,
+        "NAMA": "Amelia Qotrunada Al Hasana",
+        "NIM": "250602019",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 15,
+        "NAMA": "MUHAMMAD ALFIANSYAH",
+        "NIM": "250602034",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 16,
+        "NAMA": "Muhammad Falsah",
+        "NIM": "250602024",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "-",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 17,
+        "NAMA": "Rohmah Nur Hidayah",
+        "NIM": "240602026",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 3,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 18,
+        "NAMA": "Ahmad Imaduddin",
+        "NIM": "250602015",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang rib",
+            "HARGA": "Rp11.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 19,
+        "NAMA": "Rizky Nuzuillah",
+        "NIM": "250602005",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "M",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 20,
+        "NAMA": "Aisyatul bariroh",
+        "NIM": "240602025",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 3,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "M",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 21,
+        "NAMA": "Muhammad Naazhim Muaafii",
+        "NIM": "250602014",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 22,
+        "NAMA": "Ghaza Islami Maulana Rahmatullah",
+        "NIM": "250602039",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 23,
+        "NAMA": "Azel Aurellia Afif",
+        "NIM": "250602036",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 24,
+        "NAMA": "Muhammad Mudhofar Alam",
+        "NIM": "250602029",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 25,
+        "NAMA": "Muchammad fauzan adzim",
+        "NIM": "250602048",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 26,
+        "NAMA": "Dafa Nabil Alhakim",
+        "NIM": "250602049",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 27,
+        "NAMA": "Ahmad Mildan Mahshushoon",
+        "NIM": "250602062",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 28,
+        "NAMA": "maulana syarif abdullah",
+        "NIM": "250602018",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 29,
+        "NAMA": "Muhammad Najib Afifi",
+        "NIM": "250602006",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp200.000",
+            "KURANG": "Rp99.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 30,
+        "NAMA": "Mohammad Abdillah Fanani",
+        "NIM": "250602071",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "2XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 31,
+        "NAMA": "Muhammad Febri Syafrian Wahyudi",
+        "NIM": "250602022",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 32,
+        "NAMA": "Faiq zafran al asyrafi",
+        "NIM": "250602042",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 33,
+        "NAMA": "Juwairiyyah",
+        "NIM": "250602073",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 34,
+        "NAMA": "NAYLA ANNISA",
+        "NIM": "250602054",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 35,
+        "NAMA": "FRIGATAMA KEYRA HAFIF",
+        "NIM": "250602051",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 36,
+        "NAMA": "Amelia Rizqiya",
+        "NIM": "240602020",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 3,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "S",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 37,
+        "NAMA": "Dimas Mochammad Fikri Islam",
+        "NIM": "250602052",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 38,
+        "NAMA": "Aglia Meisa Pangesti",
+        "NIM": "250602060",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 39,
+        "NAMA": "MUHAMMAD MALBAS HARIRI",
+        "NIM": "250602064",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 40,
+        "NAMA": "Bintang Tegar Al Wildan",
+        "NIM": "250602037",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 41,
+        "NAMA": "Haris Syaifudin",
+        "NIM": "250602026",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 42,
+        "NAMA": "Rizki Arya Dwi Pangga",
+        "NIM": "250602007",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 43,
+        "NAMA": "Rian Dwi kurnianto",
+        "NIM": "250602040",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 44,
+        "NAMA": "AFAF AL BAWAZIER",
+        "NIM": "250602025",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 45,
+        "NAMA": "Muhammad nur ubaidillah",
+        "NIM": "250602041",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 46,
+        "NAMA": "Muhammad Farid Maulana Zein",
+        "NIM": "250602045",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "2XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 47,
+        "NAMA": "AHMAD FAHRI ABDILLAH",
+        "NIM": "250602065",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 48,
+        "NAMA": "Afiif Taufiiqul Hakim",
+        "NIM": "250602072",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp150.000",
+            "KURANG": "Rp149.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 49,
+        "NAMA": "Muhamad Alfarisi",
+        "NIM": "250602066",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp150.000",
+            "KURANG": "Rp149.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 50,
+        "NAMA": "Abdul Rozakul Yakin",
+        "NIM": "250602058",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp50.000",
+            "KURANG": "Rp249.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 51,
+        "NAMA": "SAIFULLAH AL AZHAR",
+        "NIM": "250602046",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "M",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 52,
+        "NAMA": "Azka Farihul Qolbi",
+        "NIM": "250602044",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 53,
+        "NAMA": "Ahmad Safari",
+        "NIM": "250602069",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 54,
+        "NAMA": "Fitra Thoriqul Umam",
+        "NIM": "250602050",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 55,
+        "NAMA": "Muhammad Nashrullah",
+        "NIM": "250602055",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 56,
+        "NAMA": "Fatkhur Rahman",
+        "NIM": "250602067",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 57,
+        "NAMA": "Marchelino Agustanto",
+        "NIM": "250602068",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp150.000",
+            "KURANG": "Rp149.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 58,
+        "NAMA": "Abdul rosyid",
+        "NIM": "250602017",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp100.000",
+            "KURANG": "Rp199.000",
+            "STATUS": "Belum"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 59,
+        "NAMA": "Sultan Ahmad Ghoiru Cokro",
+        "NIM": "250602063",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 60,
+        "NAMA": "Kharisma Amirul Hidayah",
+        "NIM": "250602070",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "3XL",
+            "TAMBAHAN": "ukuran",
+            "HARGA": "Rp7.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 61,
+        "NAMA": "Rega Tansa Rabbani",
+        "NIM": "250602012",
+        "KELAS": "A - Sore",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 62,
+        "NAMA": "Elisa Indah R",
+        "NIM": "250602061",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "M",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 63,
+        "NAMA": "deviena putri Zahrina Arin Nabilla",
+        "NIM": "250602030",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 64,
+        "NAMA": "Muhammad Sandi Rizani",
+        "NIM": "250602059",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "L",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 65,
+        "NAMA": "CITRA ANGGUN PRATIWI",
+        "NIM": "240602035",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 3,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 66,
+        "NAMA": "Mussa Al Qodar Ramdhani",
+        "NIM": "250602056",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "Transfer",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "2XL",
+            "TAMBAHAN": "Lengan Panjang",
+            "HARGA": "Rp8.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 67,
+        "NAMA": "Kimiorlen Faadihila Radhani Pedrosa",
+        "NIM": "250602001",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XL",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    },
+    {
+        "NO": 68,
+        "NAMA": "Muhammad Nuris Yoga Ananta",
+        "NIM": "250602033",
+        "KELAS": "A - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "XXL",
+            "TAMBAHAN": "ukuran",
+            "HARGA": "Rp7.000",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": ""
+    },
+    {
+        "NO": 69,
+        "NAMA": "Muhammad farisi Rasyidi",
+        "NIM": "250602043",
+        "KELAS": "B - Pagi",
+        "SEMESTER": 1,
+        "PEMBAYARAN_UBZ": {
+            "METODE": "CASH",
+            "JUMLAH": "Rp299.000",
+            "KURANG": "Rp0",
+            "STATUS": "Lunas"
+        },
+        "KAOS": {
+            "UKURAN": "M",
+            "TAMBAHAN": "",
+            "HARGA": "",
+            "PEMBAYARAN": {
+                "METODE": "",
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
+            }
+        },
+        "TOTAL_STATUS": "DONE"
+    }
+]

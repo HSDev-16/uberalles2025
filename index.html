@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cek Data Peserta</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            padding-left: 20px;
+            padding-right: 20px;
+            max-width: 600px;
+            width: 100%;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 20px;
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 36px;
+            color: white;
+            font-weight: bold;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2d3748;
+            font-size: 28px;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #718096;
+            font-size: 15px;
+            margin-bottom: 40px;
+        }
+
+        .search-form {
+            margin-bottom: 30px;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            color: #4a5568;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        input {
+            width: 100%;
+            padding: 14px 18px;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            font-size: 15px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .result {
+            display: none;
+            background: #f7fafc;
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 30px;
+            animation: slideIn 0.4s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .result.show {
+            display: block;
+        }
+
+        .result-title {
+            color: #2d3748;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .data-row {
+            display: flex;
+            padding: 12px 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .data-row:last-child {
+            border-bottom: none;
+        }
+
+        .data-label {
+            color: #718096;
+            font-size: 14px;
+            font-weight: 500;
+            width: 140px;
+            flex-shrink: 0;
+        }
+
+        .data-value {
+            color: #2d3748;
+            font-size: 14px;
+            flex: 1;
+            font-weight: 500;
+        }
+
+        .not-found {
+            text-align: center;
+            color: #e53e3e;
+            padding: 20px;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .status-verified {
+            background: #c6f6d5;
+            color: #22543d;
+        }
+
+        .status-pending {
+            background: #ff0000;
+            color: #ffffff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img class="logo" src="logo.png" alt="logo UBZ">
+        <h1>UBERALLEZ 2025</h1>
+        <p class="subtitle">Cek dan verifikasi data pendaftaran Anda</p>
+
+        <form class="search-form" id="searchForm">
+            <div class="input-group">
+                <label for="searchInput">NIM</label>
+                <input type="text" id="searchInput" placeholder="Masukkan nomor induk mahasiswa Anda" required>
+            </div>
+            <button type="submit">Cek Data</button>
+        </form>
+
+        <div class="result" id="result"></div>
+    </div>
+
+    <script>
+        let data = []
+        fetch("./data.json")
+            .then(res => res.json())
+            .then(d => data = d)
+
+        document.getElementById('searchForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const searchValue = document.getElementById('searchInput').value.toLowerCase().trim();
+            const resultDiv = document.getElementById('result');
+
+            // Cari peserta berdasarkan ID atau email
+            const participant = data.find(p =>
+                p.NIM.toLowerCase() === searchValue
+            );
+
+
+            if (participant) {
+
+                const status_class_pembayaran_ubz = participant.PEMBAYARAN_UBZ.JUMLAH == "Rp299.000" ? 'status-verified' : 'status-pending';
+                const status_text_pembayaran_ubz = participant.PEMBAYARAN_UBZ.JUMLAH == "Rp299.000" ? "Lunas" : "Belum Lunas";
+
+                const status_class_pembayaran_kaos = participant.KAOS.PEMBAYARAN.KURANG !== "" ? 'status-verified' : 'status-pending';
+                const status_text_pembayaran_kaos = participant.KAOS.PEMBAYARAN.KURANG !== "" ? 'Lunas' : 'Belum Bayar';
+
+                resultDiv.innerHTML = `
+                    <div class="result-title">Data Peserta Ditemukan</div>
+                    <div class="data-row">
+                        <div class="data-label">NIM</div>
+                        <div class="data-value">${participant.NIM}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Nama Lengkap</div>
+                        <div class="data-value">${participant.NAMA}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Kelas</div>
+                        <div class="data-value">${participant.KELAS}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Semester</div>
+                        <div class="data-value">${participant.SEMESTER}</div>
+                    </div>
+                    <div class="data-row">
+                    <div class="data-label">Status Pembayaran UBZ</div>
+                        <div class="data-value">
+                            <span class="status-badge ${status_class_pembayaran_ubz}">${status_text_pembayaran_ubz}</span>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Jumlah yang di bayar</div>
+                        <div class="data-value">${participant.PEMBAYARAN_UBZ.JUMLAH}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Kurang</div>
+                        <div class="data-value">${participant.PEMBAYARAN_UBZ.KURANG}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Ukuran Kaos</div>
+                        <div class="data-value">${participant.KAOS.UKURAN}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Tambahan Kaos</div>
+                        <div class="data-value">${participant.KAOS.TAMBAHAN || '-'}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Biaya Tambahan</div>
+                        <div class="data-value">${participant.KAOS.HARGA || '-'}</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">Status Pembayaran Kaos</div>
+                            <div class="data-value">
+                                <span class="status-badge ${status_class_pembayaran_kaos}">${status_text_pembayaran_kaos}</span>
+                            </div>
+                        </div>
+                    </div>
+                  
+                `;
+
+            } else {
+                resultDiv.innerHTML = `
+                    <div class="not-found">
+                        <p style="font-size: 16px; font-weight: 600; margin-bottom: 10px;">Data Tidak Ditemukan</p>
+                        <p style="font-size: 14px;">Pastikan NIM yang Anda masukkan sudah benar.</p>
+                    </div>
+                `;
+            }
+
+            resultDiv.classList.add('show');
+        });
+    </script>
+</body>
+
+</html>
