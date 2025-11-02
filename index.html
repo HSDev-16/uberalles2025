@@ -252,13 +252,18 @@
                 const status_class_pembayaran_ubz = participant.PEMBAYARAN_UBZ.JUMLAH == "Rp299.000" ? 'status-verified' : 'status-pending';
                 const status_text_pembayaran_ubz = participant.PEMBAYARAN_UBZ.JUMLAH == "Rp299.000" ? "Lunas" : "Belum Lunas";
 
-                const { TAMBAHAN, PEMBAYARAN } = participant.KAOS;
+                const { UKURAN, TAMBAHAN, PEMBAYARAN } = participant.KAOS;
                 const { KURANG } = PEMBAYARAN;
+                
+                const ukuranValid = ["S", "M", "L", "XL"].includes(UKURAN?.toUpperCase?.() || "");
+                const tambahanKosong = TAMBAHAN === "" || TAMBAHAN === null || TAMBAHAN === "-";
+                const kurangKosong = KURANG === "" || KURANG === null;
+                
+                const isLunas = ukuranValid && tambahanKosong && kurangKosong;
+                
+                const status_class_pembayaran_kaos = isLunas ? "status-verified" : "status-pending";
+                const status_text_pembayaran_kaos = isLunas ? "Lunas" : "Belum Bayar";
 
-                const isLunas = (KURANG === "" || KURANG === null) && (TAMBAHAN === "" || TAMBAHAN === "-");
-
-                const status_class_pembayaran_kaos = isLunas ? 'status-verified' : 'status-pending';
-                const status_text_pembayaran_kaos = isLunas ? 'Lunas' : 'Belum Bayar';
 
                 resultDiv.innerHTML = `
                     <div class="result-title">Data Peserta Ditemukan</div>
@@ -330,3 +335,4 @@
 
 
 </html>
+
