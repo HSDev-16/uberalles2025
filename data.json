@@ -326,7 +326,7 @@
         },
         "KAOS": {
             "UKURAN": "L",
-            "TAMBAHAN": "-",
+            "TAMBAHAN": "",
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
@@ -1794,3 +1794,4 @@
         "TOTAL_STATUS": "DONE"
     }
 ]
+
