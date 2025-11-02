@@ -9,7 +9,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -61,7 +61,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -71,7 +71,7 @@
             "PEMBAYARAN": {
                 "METODE": "Transfer",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -87,7 +87,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -97,7 +97,7 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp11.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -139,7 +139,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -165,7 +165,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -175,7 +175,7 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp7.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -191,7 +191,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -217,7 +217,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -227,7 +227,7 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -243,7 +243,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -269,7 +269,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -279,7 +279,7 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp11.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -295,7 +295,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -321,7 +321,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -347,7 +347,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -373,7 +373,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -399,7 +399,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -425,7 +425,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -451,7 +451,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -477,7 +477,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -487,7 +487,7 @@
             "PEMBAYARAN": {
                 "METODE": "Cash",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -503,7 +503,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -529,7 +529,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -555,7 +555,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -607,7 +607,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -633,7 +633,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -659,7 +659,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -669,7 +669,7 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -711,7 +711,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -789,7 +789,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -815,7 +815,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -841,7 +841,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -867,7 +867,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -893,7 +893,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -919,7 +919,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -945,7 +945,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -971,7 +971,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1023,7 +1023,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1049,7 +1049,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1075,7 +1075,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1101,7 +1101,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1127,7 +1127,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1153,7 +1153,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1163,7 +1163,7 @@
             "PEMBAYARAN": {
                 "METODE": "Cash",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -1179,7 +1179,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1205,7 +1205,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1335,7 +1335,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1361,7 +1361,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1387,7 +1387,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1413,7 +1413,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1439,7 +1439,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1517,7 +1517,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1543,7 +1543,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1553,7 +1553,7 @@
             "PEMBAYARAN": {
                 "METODE": "Cash",
                 "JUMLAH": "Rp7.000",
-                "KURANG": "Rp0",
+                "KURANG": "",
                 "STATUS": "Lunas"
             }
         },
@@ -1569,7 +1569,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1595,7 +1595,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1621,7 +1621,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1647,7 +1647,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1673,7 +1673,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1699,7 +1699,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "Transfer",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1725,7 +1725,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1751,7 +1751,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1777,7 +1777,7 @@
         "PEMBAYARAN_UBZ": {
             "METODE": "CASH",
             "JUMLAH": "Rp299.000",
-            "KURANG": "Rp0",
+            "KURANG": "",
             "STATUS": "Lunas"
         },
         "KAOS": {
@@ -1794,4 +1794,5 @@
         "TOTAL_STATUS": "DONE"
     }
 ]
+
 
