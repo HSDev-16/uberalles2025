@@ -255,7 +255,7 @@
                 const { TAMBAHAN, PEMBAYARAN } = participant.KAOS;
                 const { KURANG } = PEMBAYARAN;
 
-                const isLunas = (KURANG === "" || KURANG === null) && (TAMBAHAN === "" || TAMBAHAN === null);
+                const isLunas = (KURANG === "" || KURANG === null) && (TAMBAHAN === "" || TAMBAHAN === "-");
 
                 const status_class_pembayaran_kaos = isLunas ? 'status-verified' : 'status-pending';
                 const status_text_pembayaran_kaos = isLunas ? 'Lunas' : 'Belum Bayar';
@@ -327,5 +327,6 @@
         });
     </script>
 </body>
+
 
 </html>
