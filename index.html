@@ -256,13 +256,21 @@
                 const { KURANG } = PEMBAYARAN;
                 
                 const ukuranValid = ["S", "M", "L", "XL"].includes(UKURAN?.toUpperCase?.() || "");
-                const tambahanKosong = TAMBAHAN === "" || TAMBAHAN === null || TAMBAHAN === "-";
-                const kurangKosong = KURANG === "" || KURANG === null;
+                const tambahanAda = TAMBAHAN && TAMBAHAN !== "-" && TAMBAHAN.trim() !== "";
+                const tambahanKosong = !tambahanAda;
+                const kurangKosong = !KURANG || KURANG.trim() === "";
                 
-                const isLunas = ukuranValid && tambahanKosong && kurangKosong;
+                // Kondisi 1: Ada tambahan & sudah lunas
+                const kondisiTambahanLunas = tambahanAda && kurangKosong;
+                
+                // Kondisi 2: Ukuran standar (S–XL), tanpa tambahan, & sudah lunas
+                const kondisiStandarLunas = ukuranValid && tambahanKosong && kurangKosong;
+                
+                const isLunas = kondisiTambahanLunas || kondisiStandarLunas;
                 
                 const status_class_pembayaran_kaos = isLunas ? "status-verified" : "status-pending";
                 const status_text_pembayaran_kaos = isLunas ? "Lunas" : "Belum Bayar";
+
 
 
                 resultDiv.innerHTML = `
@@ -335,4 +343,5 @@
 
 
 </html>
+
 
