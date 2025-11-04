@@ -1603,10 +1603,10 @@
             "TAMBAHAN": "Lengan Panjang",
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
-                "METODE": "",
+                "METODE": "Cash",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Belum",
-                "STATUS": ""
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": ""
@@ -1794,3 +1794,4 @@
         "TOTAL_STATUS": "DONE"
     }
 ]
+
