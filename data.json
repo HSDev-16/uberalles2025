@@ -18,9 +18,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -44,9 +44,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -122,9 +122,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -148,9 +148,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -200,9 +200,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -253,8 +253,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -304,12 +304,12 @@
             "HARGA": "Rp7.000",
             "PEMBAYARAN": {
                 "METODE": "Cash",
-                "JUMLAH": "",
-                "KURANG": "Rp7.000",
-                "STATUS": "Belum"
+                "JUMLAH": "Rp7.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
-        "TOTAL_STATUS": ""
+        "TOTAL_STATUS": "DONE"
     },
     {
         "NO": 13,
@@ -330,9 +330,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -381,10 +381,10 @@
             "TAMBAHAN": "Lengan Panjang",
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
-                "METODE": "",
+                "METODE": "Cash",
                 "JUMLAH": "Rp8.000",
                 "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "STATUS": "Lunas"
             }
         },
         "TOTAL_STATUS": ""
@@ -408,9 +408,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -462,10 +462,10 @@
                 "METODE": "",
                 "JUMLAH": "Rp11.000",
                 "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "STATUS": "Lunas"
             }
         },
-        "TOTAL_STATUS": ""
+        "TOTAL_STATUS": "DONE"
     },
     {
         "NO": 19,
@@ -513,8 +513,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -538,9 +538,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -564,9 +564,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -591,8 +591,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -616,12 +616,12 @@
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
                 "METODE": "Cash",
-                "JUMLAH": "",
-                "KURANG": "Rp8.000",
-                "STATUS": "Belum"
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
-        "TOTAL_STATUS": ""
+        "TOTAL_STATUS": "DONE"
     },
     {
         "NO": 25,
@@ -643,8 +643,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -694,9 +694,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -720,9 +720,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -772,9 +772,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -798,9 +798,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -824,9 +824,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -850,12 +850,12 @@
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
                 "METODE": "Cash",
-                "JUMLAH": "",
-                "KURANG": "Rp8.000",
-                "STATUS": "Belum"
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
-        "TOTAL_STATUS": ""
+        "TOTAL_STATUS": "DONE"
     },
     {
         "NO": 34,
@@ -902,9 +902,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -928,9 +928,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -954,9 +954,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -980,12 +980,12 @@
             "HARGA": "Rp8.000",
             "PEMBAYARAN": {
                 "METODE": "Cash",
-                "JUMLAH": "",
-                "KURANG": "Rp8.000",
-                "STATUS": "Belum"
+                "JUMLAH": "Rp8.000",
+                "KURANG": "Rp0",
+                "STATUS": "Lunas"
             }
         },
-        "TOTAL_STATUS": ""
+        "TOTAL_STATUS": "DONE"
     },
     {
         "NO": 39,
@@ -1006,9 +1006,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1059,8 +1059,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1085,8 +1085,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1110,9 +1110,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1136,9 +1136,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1188,9 +1188,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1214,9 +1214,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1240,9 +1240,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1267,8 +1267,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1293,8 +1293,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1318,9 +1318,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1344,9 +1344,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1370,9 +1370,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1396,9 +1396,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1422,9 +1422,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1448,9 +1448,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1475,8 +1475,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1500,9 +1500,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1526,9 +1526,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1578,9 +1578,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1605,8 +1605,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1656,9 +1656,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1682,9 +1682,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1709,8 +1709,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp8.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1734,9 +1734,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
@@ -1761,8 +1761,8 @@
             "PEMBAYARAN": {
                 "METODE": "",
                 "JUMLAH": "Rp7.000",
-                "KURANG": "Rp0",
-                "STATUS": "Belum"
+                "KURANG": "Belum",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": ""
@@ -1786,9 +1786,9 @@
             "HARGA": "",
             "PEMBAYARAN": {
                 "METODE": "",
-                "JUMLAH": "Rp0",
-                "KURANG": "Rp0",
-                "STATUS": "Lunas"
+                "JUMLAH": "",
+                "KURANG": "",
+                "STATUS": ""
             }
         },
         "TOTAL_STATUS": "DONE"
